@@ -13,7 +13,7 @@
 
 `Stdheader` is the standard 42 header for the Vim editor and Vim projects (for pisciners and students).
 
-![42 header](img/stdheader_classic.png)
+![42 header](img/stdheader_badass.png)
 <!-- You can change example with `img/stdheader_badass.png` if you prefer -->
 
 ## **UNIX SETUP (LINUX)**
